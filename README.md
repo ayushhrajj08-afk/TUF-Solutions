@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 0 | 8 | 0 | `2026-10-21` |
+| **9** | 0 | 9 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (8)
+### DSA (9)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,8 +22,9 @@
 | 0004 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0005 | [975. Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0006 | [984. Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0007 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `-` |
-| 0008 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0007 | [986. Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0008 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `-` |
+| 0009 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 
 ---
 
