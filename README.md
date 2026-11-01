@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 0 | 15 | 0 | `2026-11-01` |
+| **16** | 0 | 16 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,16 +21,17 @@
 | 0003 | [908. Factorial of a given number](./DSA/General/factorial-of-a-given-number-i) | [JAVA](./DSA/General/factorial-of-a-given-number-i/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
 | 0004 | [702. Largest Element](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | ⚪ Unspecified | `General` | `-` |
 | 0005 | [838. Linear Search](./DSA/General/linear-search) | [JAVA](./DSA/General/linear-search/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-27` |
-| 0006 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0007 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0008 | [975. Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0009 | [984. Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0010 | [986. Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0011 | [995. Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0012 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-11-01` |
-| 0013 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `-` |
-| 0014 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
-| 0015 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0006 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-01` |
+| 0007 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0008 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0009 | [975. Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0010 | [984. Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0011 | [986. Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0012 | [995. Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0013 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-11-01` |
+| 0014 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `-` |
+| 0015 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
+| 0016 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 
 ---
 
