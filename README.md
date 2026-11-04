@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **18** | 0 | 18 | 0 | `2026-11-03` |
+| **19** | 0 | 19 | 0 | `2026-11-04` |
 
 ---
 
@@ -34,6 +34,12 @@
 | 0016 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-03` |
 | 0017 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
 | 0018 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+
+### 0009-palindrome-number (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0009 Palindrome Number](./0009-palindrome-number) | [0009-palindrome-number](./0009-palindrome-number/0009-palindrome-number.java) | 🟡 Medium | `General` | `2026-11-01` |
 
 ---
 
