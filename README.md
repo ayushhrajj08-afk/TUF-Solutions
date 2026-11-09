@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-11-05` |
+| **20** | 0 | 20 | 0 | `2026-11-09` |
 
 ---
 
@@ -40,7 +40,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [0009 Palindrome Number](./0009-palindrome-number) | [0009-palindrome-number](./0009-palindrome-number/0009-palindrome-number.java) | 🟡 Medium | `General` | `2026-11-01` |
+| 0001 | [0009 Palindrome Number](./0009-palindrome-number) | [0009-palindrome-number](./0009-palindrome-number/0009-palindrome-number.java) | 🟡 Medium | `General` | `2026-11-06` |
 
 ---
 
