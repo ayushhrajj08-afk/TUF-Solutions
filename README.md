@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **22** | 0 | 22 | 0 | `2026-11-10` |
+| **23** | 0 | 23 | 0 | `2026-11-12` |
 
 ---
 
@@ -43,6 +43,12 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [0009 Palindrome Number](./0009-palindrome-number) | [0009-palindrome-number](./0009-palindrome-number/0009-palindrome-number.java) | 🟡 Medium | `General` | `2026-11-06` |
+
+### 0075-sort-colors (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0075 Sort Colors](./0075-sort-colors) | [0075-sort-colors](./0075-sort-colors/0075-sort-colors.java) | 🟡 Medium | `General` | `2026-11-10` |
 
 ---
 
