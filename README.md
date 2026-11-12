@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [1550-three-consecutive-odds](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1550-three-consecutive-odds) |
 | [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
