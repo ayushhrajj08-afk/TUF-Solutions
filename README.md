@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [1550-three-consecutive-odds](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1550-three-consecutive-odds) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## String
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
