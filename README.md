@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [2652-sum-multiples](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
