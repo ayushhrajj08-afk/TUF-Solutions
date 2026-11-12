@@ -55,3 +55,23 @@
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
+<!---LeetCode Topics End-->
