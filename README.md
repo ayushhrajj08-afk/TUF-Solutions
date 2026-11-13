@@ -84,5 +84,6 @@
 ## String
 |  |
 | ------- |
+| [0709-to-lower-case](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0709-to-lower-case) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
