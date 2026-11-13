@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-11-12` |
+| **23** | 0 | 23 | 0 | `2026-11-13` |
 
 ---
 
@@ -21,7 +21,7 @@
 | 0003 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [JAVA](./DSA/Arrays/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 | 0004 | [908. Factorial of a given number](./DSA/General/factorial-of-a-given-number-i) | [JAVA](./DSA/General/factorial-of-a-given-number-i/solution.java) | ⚪ Unspecified | `General` | `2026-11-01` |
 | 0005 | [921. Factorial of a Given Number](./DSA/General/factorial-of-a-given-number-ii) | [JAVA](./DSA/General/factorial-of-a-given-number-ii/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
-| 0006 | [786. Find square root of a number](./DSA/General/find-square-root-of-a-number) | [JAVA](./DSA/General/find-square-root-of-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-10` |
+| 0006 | [786. Find square root of a number](./DSA/General/find-square-root-of-a-number) | [JAVA](./DSA/General/find-square-root-of-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-13` |
 | 0007 | [702. Largest Element](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-18` |
 | 0008 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
 | 0009 | [838. Linear Search](./DSA/General/linear-search) | [JAVA](./DSA/General/linear-search/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-27` |
@@ -55,36 +55,3 @@
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1550-three-consecutive-odds](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1550-three-consecutive-odds) |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
-| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
-## Math
-|  |
-| ------- |
-| [2520-count-the-digits-that-divide-a-number](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
-| [2652-sum-multiples](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2652-sum-multiples) |
-| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
-## Sorting
-|  |
-| ------- |
-| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
-## Polygons
-|  |
-| ------- |
-| [3024-type-of-triangle](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/3024-type-of-triangle) |
-## Two Pointers
-|  |
-| ------- |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
-## String
-|  |
-| ------- |
-| [0709-to-lower-case](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0709-to-lower-case) |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
-<!---LeetCode Topics End-->

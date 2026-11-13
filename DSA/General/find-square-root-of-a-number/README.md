@@ -1,4 +1,4 @@
-# [786. Find square root of a number](https://takeuforward.org/practice/dsa/find-square-root-of-a-number?ai=true&sidebar=0)
+# [786. Find square root of a number](https://takeuforward.org/practice/dsa/find-square-root-of-a-number)
 
 ![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
 
