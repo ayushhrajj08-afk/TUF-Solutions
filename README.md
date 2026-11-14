@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -83,4 +84,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
