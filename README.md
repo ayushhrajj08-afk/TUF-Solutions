@@ -55,3 +55,15 @@
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+<!---LeetCode Topics End-->
