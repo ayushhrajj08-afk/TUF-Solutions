@@ -61,9 +61,26 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
