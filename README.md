@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-11-13` |
+| **30** | 0 | 30 | 0 | `2026-11-14` |
 
 ---
 
@@ -44,52 +44,56 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [0009 Palindrome Number](./0009-palindrome-number) | [0009-palindrome-number](./0009-palindrome-number/0009-palindrome-number.java) | 🟡 Medium | `General` | `2026-11-06` |
 
+### 0069-sqrtx (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0069 Sqrtx](./0069-sqrtx) | [0069-sqrtx](./0069-sqrtx/0069-sqrtx.java) | 🟡 Medium | `General` | `2026-11-14` |
+
 ### 0075-sort-colors (1)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [0075 Sort Colors](./0075-sort-colors) | [0075-sort-colors](./0075-sort-colors/0075-sort-colors.java) | 🟡 Medium | `General` | `2026-11-10` |
 
+### 0709-to-lower-case (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0709 To Lower Case](./0709-to-lower-case) | [0709-to-lower-case](./0709-to-lower-case/0709-to-lower-case.java) | 🟡 Medium | `General` | `2026-11-13` |
+
+### 1550-three-consecutive-odds (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [1550 Three Consecutive Odds](./1550-three-consecutive-odds) | [1550-three-consecutive-odds](./1550-three-consecutive-odds/1550-three-consecutive-odds.java) | 🟡 Medium | `General` | `2026-11-12` |
+
+### 2520-count-the-digits-that-divide-a-number (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [2520 Count The Digits That Divide A Number](./2520-count-the-digits-that-divide-a-number) | [2520-count-the-digits-that-divide-a-number](./2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.java) | 🟡 Medium | `General` | `2026-11-13` |
+
+### 2535-difference-between-element-sum-and-digit-sum-of-an-array (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [2535 Difference Between Element Sum And Digit Sum Of An Array](./2535-difference-between-element-sum-and-digit-sum-of-an-array) | [2535-difference-between-element-sum-and-digit-sum-of-an-array](./2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.java) | 🟡 Medium | `Arrays` | `2026-11-14` |
+
+### 2652-sum-multiples (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [2652 Sum Multiples](./2652-sum-multiples) | [2652-sum-multiples](./2652-sum-multiples/2652-sum-multiples.java) | 🟡 Medium | `General` | `2026-11-12` |
+
+### 3024-type-of-triangle (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [3024 Type Of Triangle](./3024-type-of-triangle) | [3024-type-of-triangle](./3024-type-of-triangle/3024-type-of-triangle.java) | 🟡 Medium | `General` | `2026-11-13` |
+
 ---
 
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
-| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
-## Math
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
-| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0075-sort-colors) |
-## Binary Search
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0069-sqrtx) |
-<!---LeetCode Topics End-->
