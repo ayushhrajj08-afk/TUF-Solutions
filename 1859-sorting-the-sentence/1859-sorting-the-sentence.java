@@ -14,7 +14,7 @@ class Solution {
         for (int i = 0; i < xrr.length; i++) {
             ruth=ruth+xrr[i]+" ";
         }
-        // ruth.trim();
-        return ruth.trim();
+        ruth=ruth.trim();
+        return ruth;
     }
 }
