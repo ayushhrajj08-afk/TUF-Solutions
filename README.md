@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
