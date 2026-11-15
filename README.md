@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1859-sorting-the-sentence](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0029-divide-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
