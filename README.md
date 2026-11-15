@@ -112,4 +112,9 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
