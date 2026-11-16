@@ -1,6 +1,6 @@
 # [838. Linear Search](https://takeuforward.org/practice/dsa/linear-search)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
 ---
 
