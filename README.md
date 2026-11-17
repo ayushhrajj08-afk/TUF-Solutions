@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **39** | 1 | 38 | 0 | `2026-11-17` |
+| **40** | 1 | 39 | 0 | `2026-11-17` |
 
 ---
 
@@ -40,6 +40,12 @@
 | 0022 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-10` |
 | 0023 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 | 0024 | [1. Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-16` |
+
+### 0001-two-sum (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0001 Two Sum](./0001-two-sum) | [0001-two-sum](./0001-two-sum/0001-two-sum.java) | 🟡 Medium | `General` | `2026-11-16` |
 
 ### 0007-reverse-integer (1)
 
