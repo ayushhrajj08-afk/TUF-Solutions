@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
