@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **41** | 1 | 40 | 0 | `2026-11-17` |
+| **43** | 1 | 42 | 0 | `2026-11-26` |
 
 ---
 
@@ -66,6 +66,12 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [0029 Divide Two Integers](./0029-divide-two-integers) | [0029-divide-two-integers](./0029-divide-two-integers/0029-divide-two-integers.java) | 🟡 Medium | `General` | `2026-11-15` |
 
+### 0050-powx-n (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0050 Powx N](./0050-powx-n) | [0050-powx-n](./0050-powx-n/0050-powx-n.java) | 🟡 Medium | `General` | `2026-11-20` |
+
 ### 0069-sqrtx (1)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
@@ -89,6 +95,12 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [0709 To Lower Case](./0709-to-lower-case) | [0709-to-lower-case](./0709-to-lower-case/0709-to-lower-case.java) | 🟡 Medium | `General` | `2026-11-13` |
+
+### 0977-squares-of-a-sorted-array (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [0977 Squares Of A Sorted Array](./0977-squares-of-a-sorted-array) | [0977-squares-of-a-sorted-array](./0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java) | 🟡 Medium | `Arrays` | `2026-11-20` |
 
 ### 1550-three-consecutive-odds (1)
 
@@ -143,33 +155,3 @@
 <p align="center">
   Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0007-reverse-integer) |
-| [0050-powx-n](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0050-powx-n) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0001-two-sum) |
-| [0977-squares-of-a-sorted-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0001-two-sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0977-squares-of-a-sorted-array) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/ayushhrajj08-afk/TUF-Solutions/tree/master/0050-powx-n) |
-<!---LeetCode Topics End-->
